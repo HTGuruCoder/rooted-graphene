@@ -4,7 +4,7 @@ They moved to [their own GitHub organization](https://rooted-graphene.github.io/
 
 See [announcement](https://github.com/schnatterer/rooted-graphene/blob/81e4bda/README.md#2025032500) for details.
 
-For historical reasons, you can find the last versions of these flavors here:
+For historical reasons, you can find the last versions of these flavors here: 
 
 * [magisk](magisk)
 * [rootless](rootless)
